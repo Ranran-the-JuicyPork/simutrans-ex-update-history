@@ -12,9 +12,13 @@ https://forum.simutrans.com/index.php/21683.0.html
 https://t.co/H9yaLaohFb
 ・複数タイルの都市建築物の動作が正しくない(未検証)
 
+
 ------------------------------------------------------
+SimutransおよびSimutrans-Extendedは有志達が作って無料で公開してくださっているゲームです
+有志達は全員がプロというわけでもなく、それでなくとも完全にバグのないプログラムなんて作れません
 バグを見つけた場合、Extendedのバグ報告スレッド(英語)へ報告しましょう
 https://forum.simutrans.com/index.php/board,152.0.html
+
 
 バグを報告する場合の注意
 ・同様のバグが既に報告されていないかを確認
